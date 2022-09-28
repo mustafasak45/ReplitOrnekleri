@@ -1,0 +1,13 @@
+ System.out.println("***********************\nOGRENCI VE OGRETMEN YONETIM PANELI\n***********************\n" +
+                "1-OGRENCI ISLEMLERI\n2-OGRETMEN ISLEMLERI\nQ- CIKIS");
+        System.out.println("Isleminizi seciniz :");
+
+
+         System.out.println("Sectiginiz kisi turu: "+kisiTuru+" icin asagidaki islemlerden tercih yapiniz.\r\n"
+                +"===================ISLEMLER=================\r\n"
+                +"1-EKLEME\r\n"
+                +"2-ARAMA\r\n"
+                +"3-LISTELEMEM\r\n"
+                +"4-SILME\r\n"
+                +"0-ANA MENU");
+                System.out.println("Islem tercihinizi giriniz :");
